@@ -19,6 +19,12 @@ This project is a comprehensive guide platform developed for students preparing 
 ## 🔗 Live Demo
 The project is currently live in production. You can access the working application and see it in action at: **[ykstercih.com](https://ykstercih.com)**
 
+## 📸 Screenshots
+
+*(You can add more screenshots of your project here to make your portfolio stand out!)*
+
+![Homepage](./images/anapage.webp)
+
 ## 💻 Running Locally
 
 To run the source code on your local machine:
