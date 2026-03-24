@@ -21,9 +21,12 @@ The project is currently live in production. You can access the working applicat
 
 ## 📸 Screenshots
 
-*(You can add more screenshots of your project here to make your portfolio stand out!)*
+Here is a glimpse of the application interface:
 
-![Homepage](./images/anapage.webp)
+![Home](./im.png)
+![Screenshot 1](./img.png)
+![Screenshot 2](./img1.png)
+![Screenshot 3](./img2.png)
 
 ## 💻 Running Locally
 
