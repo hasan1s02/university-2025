@@ -1,0 +1,579 @@
+[
+    {
+      "id": "uni-city",
+      "title": "Hangi Üniversite Şehri Sana Göre?",
+      "description": "İstanbul'un kalabalığı mı, Eskişehir'in öğrenci dostu ortamı mı?",
+      "image": "/images/uni-city.webp",
+      "questions": [
+        {
+          "question": "Bir sabah uyandığında kampüs manzaran nasıl olsun isterdin?",
+          "image": "/images/campus-view.webp",
+          "options": [
+            "Boğaz manzarası, gökdelenler ve trafik",
+            "Yeşillikler içinde bisiklet yolları",
+            "Tarihi binalar ve kafeler",
+            "Sessiz, küçük bir şehirde huzur"
+          ]
+        },
+        {
+          "question": "Boş zamanlarında en çok ne yapmaktan hoşlanırsın?",
+          "image": "/images/hobby.webp",
+          "options": [
+            "Kalabalık arkadaş gruplarıyla vakit geçirmek",
+            "Sessiz yerlerde kitap okumak",
+            "Spor yapmak ya da doğada olmak",
+            "Kafede oturup yazmak, çizmek"
+          ]
+        },
+        {
+          "question": "Ulaşım senin için ne kadar önemli?",
+          "image": "/images/transport.webp",
+          "options": [
+            "Toplu taşıma yeterli olsun",
+            "Her yere yürüyerek ulaşabileyim",
+            "Bisiklet yolları olsun",
+            "Trafik az olsun yeter"
+          ]
+        },
+        {
+          "question": "Bir şehirde en çok ne seni çeker?",
+          "image": "/images/city-feel.webp",
+          "options": [
+            "Kültürel etkinlikler ve konserler",
+            "Sessizlik ve doğaya yakınlık",
+            "Kafeler, sokak sanatçıları",
+            "Teknoloji ve iş imkanları"
+          ]
+        },
+        {
+          "question": "Kampüste seni en çok mutlu eden şey ne olurdu?",
+          "image": "/images/happy-campus.webp",
+          "options": [
+            "Kalabalık etkinlikler",
+            "Sessiz çalışma alanları",
+            "Sanat ve müzik ortamı",
+            "Geniş doğa alanları"
+          ]
+        },
+        {
+          "question": "Hangi mekanda ders çalışmayı seversin?",
+          "image": "/images/study-place.webp",
+          "options": [
+            "Kütüphane",
+            "Kafe",
+            "Park",
+            "Yurttaki oda"
+          ]
+        },
+        {
+          "question": "Geceleri dışarı çıkmayı sever misin?",
+          "image": "/images/nightlife.webp",
+          "options": [
+            "Evet, şehir yaşamı gece başlar",
+            "Nadiren çıkarım, evde kalmayı severim",
+            "Sakin yürüyüşleri tercih ederim",
+            "Yılda bir-iki kez yeter"
+          ]
+        },
+        {
+          "question": "Yemek tercihin nasıl olurdu?",
+          "image": "/images/food.webp",
+          "options": [
+            "Her gün farklı mutfak denemek",
+            "Evde yemek yapmak",
+            "Ucuz ve pratik yemek olsun yeter",
+            "Sokak lezzetlerini severim"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "title": "İstanbul",
+          "description": "Kalabalığı, kültürel etkinlikleri, gece hayatını sevenler.",
+          "image": "/images/istanbul.webp"
+        },
+        {
+          "title": "Eskişehir",
+          "description": "Öğrenci dostu, bisiklet yollarını seven, sosyal ortam arayanlar.",
+          "image": "/images/eskisehir.webp"
+        },
+        {
+          "title": "Ankara",
+          "description": "Planlı, sakin ama büyük şehir hissinden vazgeçemeyenler.",
+          "image": "/images/ankara.webp"
+        },
+        {
+          "title": "İzmir",
+          "description": "Doğa, deniz ve özgürlük seven rahat karakterler.",
+          "image": "/images/izmir.webp"
+        },
+        {
+          "title": "Küçük Şehirler",
+          "description": "Sessizlik, huzur ve doğayla iç içe olmak isteyenler.",
+          "image": "/images/small-city.webp"
+        }
+      ]
+    },
+    {
+        "id": "mindset",
+        "title": "Senin Zihniyetine En Uygun Bölüm Hangisi?",
+        "description": "Ezberci mi analitik mi, yoksa tamamen yaratıcı bir kafa mı?",
+        "image": "/images/mindset.webp",
+        "questions": [
+          {
+            "question": "Bir problemi çözmen gerektiğinde ilk adımın ne olur?",
+            "image": "/images/problem-solving.webp",
+            "options": [
+              "Analiz ederim, parçalara bölerim.",
+              "Kendimce bir yol denerim.",
+              "Fikir üretmeye çalışırım.",
+              "Önce başkalarına danışırım."
+            ]
+          },
+          {
+            "question": "Bir şeyi öğrenmenin en iyi yolu sence nedir?",
+            "image": "/images/learning-style.webp",
+            "options": [
+              "Kendi başıma deneyerek öğrenmek.",
+              "Yazarak ve tekrar ederek öğrenmek.",
+              "Görselleştirerek ve çizerek öğrenmek.",
+              "Anlatarak ve tartışarak öğrenmek."
+            ]
+          },
+          {
+            "question": "Yeni bir fikir ortaya çıktığında tepkin ne olur?",
+            "image": "/images/idea.webp",
+            "options": [
+              "Mantıklı mı diye düşünürüm.",
+              "Hemen heyecanlanırım.",
+              "Nasıl uygulanabileceğine bakarım.",
+              "Daha önce yapıldı mı diye kontrol ederim."
+            ]
+          },
+          {
+            "question": "En çok hangi ders türünden keyif alırsın?",
+            "image": "/images/class-type.webp",
+            "options": [
+              "Matematik, fizik gibi sayısal dersler.",
+              "Görsel sanatlar, tasarım gibi yaratıcı dersler.",
+              "Psikoloji, sosyoloji gibi insan odaklı dersler.",
+              "Tarih, coğrafya gibi ezberli dersler."
+            ]
+          },
+          {
+            "question": "Bir sunum yapman gerekse nasıl hazırlanırsın?",
+            "image": "/images/presentation.webp",
+            "options": [
+              "Planlar, madde madde çıkarırım.",
+              "Etkili görsellerle süslerim.",
+              "Arkadaşlarımla prova yaparım.",
+              "Kendime göre kısa bir özet hazırlarım."
+            ]
+          },
+          {
+            "question": "Kendine en yakın bulduğun kelime aşağıdakilerden hangisi?",
+            "image": "/images/personality.webp",
+            "options": [
+              "Mantıklı",
+              "Hayalperest",
+              "Empatik",
+              "Düzenli"
+            ]
+          },
+          {
+            "question": "Grup çalışmasında seni en iyi tanımlayan rol nedir?",
+            "image": "/images/teamwork.webp",
+            "options": [
+              "Planlayıcı",
+              "Fikir üretici",
+              "Destekleyici",
+              "İzleyici"
+            ]
+          },
+          {
+            "question": "Zaman yönetimi konusunda hangisi sana daha yakın?",
+            "image": "/images/time-management.webp",
+            "options": [
+              "Zaman çizelgesi yaparım.",
+              "İlham gelince çalışırım.",
+              "Baskı altında daha üretken olurum.",
+              "Kendi akışıma göre hareket ederim."
+            ]
+          }
+        ],
+        "results": [
+          {
+            "title": "Mühendislik / Bilgisayar Bilimleri",
+            "description": "Analitik düşünmeyi seven, planlı ve çözüm odaklı bireyler için ideal.",
+            "image": "/images/engineering.webp"
+          },
+          {
+            "title": "Güzel Sanatlar / Tasarım",
+            "description": "Hayal gücü kuvvetli, estetik bakış açısı olan yaratıcı zihinler için.",
+            "image": "/images/arts.webp"
+          },
+          {
+            "title": "Psikoloji / Sosyoloji",
+            "description": "İnsan davranışlarını anlamaya meraklı, empati yönü güçlü bireyler için.",
+            "image": "/images/psychology.webp"
+          },
+          {
+            "title": "İletişim / Medya",
+            "description": "Kendini ifade etmeyi seven, sosyal ve etkili anlatım yeteneğine sahip olanlar için.",
+            "image": "/images/communication.webp"
+          },
+          {
+            "title": "Fen-Edebiyat / Tarih",
+            "description": "Bilgi biriktirmeyi ve düzenli çalışmayı seven, sabırlı ve istikrarlı kişiler için.",
+            "image": "/images/history.webp"
+          }
+        ]
+      },
+      {
+        "id": "future-career",
+        "title": "Gelecekteki Mesleğin Ne Olmalı?",
+        "description": "Senin karakterine ve tercihine göre en uygun kariyer yolunu bul.",
+        "image": "/images/future-career.webp",
+        "questions": [
+          {
+            "question": "Bir gününü planlarken hangisi seni daha çok yansıtır?",
+            "image": "/images/day-plan.webp",
+            "options": [
+              "Gün boyu görevleri listeleyip uygularım.",
+              "İlham geldiğinde hareket ederim.",
+              "Kiminle çalışacağım önemli.",
+              "Günüme spontane kararlarla yön veririm."
+            ]
+          },
+          {
+            "question": "İş ortamı olarak hangisi sana daha yakın?",
+            "image": "/images/workplace.webp",
+            "options": [
+              "Kurumsal bir ofis.",
+              "Kendi işimi yürüttüğüm bir yer.",
+              "Saha ve hareketli alanlar.",
+              "Uzaktan çalışma imkânı olan dijital ortamlar."
+            ]
+          },
+          {
+            "question": "Kariyerinde seni en çok ne motive eder?",
+            "image": "/images/motivation.webp",
+            "options": [
+              "Yükselmek ve sorumluluk almak.",
+              "Fikirlerimi hayata geçirmek.",
+              "İnsanlara yardım etmek.",
+              "Seyahat özgürlüğü ve esneklik."
+            ]
+          },
+          {
+            "question": "Stresli bir anda ne yaparsın?",
+            "image": "/images/stress.webp",
+            "options": [
+              "Plan yapar, kontrol altına alırım.",
+              "Yaratıcı çözümler üretirim.",
+              "Destek ararım, birlikte aşarım.",
+              "O anki hissiyatıma göre karar veririm."
+            ]
+          },
+          {
+            "question": "Hangi yetenek sende daha baskın?",
+            "image": "/images/skills.webp",
+            "options": [
+              "Analiz ve strateji kurma.",
+              "Yenilik üretme, girişimcilik.",
+              "İletişim ve empati.",
+              "Bağımsızlık ve kendine güven."
+            ]
+          },
+          {
+            "question": "Bir ekip içinde rolün ne olurdu?",
+            "image": "/images/team-role.webp",
+            "options": [
+              "Yöneten ve planlayan kişi.",
+              "Fikir sahibi, risk alan kişi.",
+              "İnsanları bir arada tutan kişi.",
+              "Bağımsız çalışan ama katkı sağlayan kişi."
+            ]
+          },
+          {
+            "question": "Sabah işe başladığında seni en çok ne mutlu eder?",
+            "image": "/images/work-start.webp",
+            "options": [
+              "Planlı bir takvim görmek.",
+              "Yeni bir fikir üstünde çalışmak.",
+              "İnsanlarla etkileşimde olmak.",
+              "Kendi tempomla başlamak."
+            ]
+          },
+          {
+            "question": "10 yıl sonra nerede olmak istersin?",
+            "image": "/images/future.webp",
+            "options": [
+              "Bir şirketin yöneticisi olarak.",
+              "Kendi şirketimi kurmuş olarak.",
+              "İnsanlara destek veren bir pozisyonda.",
+              "Dünyayı gezerken freelance çalışarak."
+            ]
+          }
+        ],
+        "results": [
+          {
+            "title": "Proje Yöneticisi",
+            "description": "Planlı, organize ve liderlik becerileri yüksek kişiler için ideal bir yol.",
+            "image": "/images/project-manager.webp"
+          },
+          {
+            "title": "Girişimci",
+            "description": "Kendi işini kurmak isteyen, risk almaktan çekinmeyen yaratıcı zihinler için.",
+            "image": "/images/entrepreneur.webp"
+          },
+          {
+            "title": "Psikolojik Danışman / Sosyal Hizmet Uzmanı",
+            "description": "İnsanlara yardım etmeyi seven, empati gücü yüksek bireyler için.",
+            "image": "/images/psychologist.webp"
+          },
+          {
+            "title": "Freelancer / Dijital Göçebe",
+            "description": "Bağımsız çalışmayı seven, özgürlük odaklı bireyler için.",
+            "image": "/images/freelancer.webp"
+          },
+          {
+            "title": "Aktif Saha Uzmanı",
+            "description": "Masa başı yerine hareketli alanlarda çalışmayı tercih edenler için.",
+            "image": "/images/field-worker.webp"
+          }
+        ]
+      },
+      {
+        "id": "friend-group-persona",
+        "title": "Üniversite Arkadaş Grubundaki Karakterin Ne?",
+        "description": "Grubun lideri misin, sessiz dinleyici mi?",
+        "image": "/images/friend-group.webp",
+        "questions": [
+          {
+            "question": "Yeni gelen biri gruba katıldığında ne yaparsın?",
+            "image": "/images/friend-0.webp",
+            "options": [
+              "Tanıştırırım, kaynaştırırım.",
+              "Sessizce gözlemlerim.",
+              "Direkt samimi olurum.",
+              "Umurumda olmaz, akışına bırakırım."
+            ]
+          },
+          {
+            "question": "Grup çalışmasında üstlendiğin rol nedir?",
+            "image": "/images/friend-1.webp",
+            "options": [
+              "Planlama ve organizasyon benden sorulur.",
+              "Yaratıcı fikirlerle katkı sağlarım.",
+              "İşin uygulama kısmını hallederim.",
+              "Motive ederim, destek olurum."
+            ]
+          },
+          {
+            "question": "Arkadaş ortamında en çok hangi cümleyi duyarsın?",
+            "image": "/images/friend-2.webp",
+            "options": [
+              "Sensiz eksik kalıyoruz.",
+              "Sen hep çok sakinsin.",
+              "Senin enerjin iyi geliyor.",
+              "Sen olmasan planlar yürümeyecek."
+            ]
+          },
+          {
+            "question": "Grupça bir yere gidilecek ama karar verilemiyor. Ne yaparsın?",
+            "image": "/images/friend-3.webp",
+            "options": [
+              "Planı ben yaparım, herkes uyar.",
+              "Oylama öneririm.",
+              "Ne karar verirseniz uyarım.",
+              "Ben kendi planımı yaparım."
+            ]
+          },
+          {
+            "question": "Whatsapp grubunda tartışma çıktı, senin tavrın?",
+            "image": "/images/friend-4.webp",
+            "options": [
+              "Ortayı bulmaya çalışırım.",
+              "Sessizce takip ederim.",
+              "Esprilerle ortamı yumuşatırım.",
+              "Tartışmadan çıkarım, kafam rahat."
+            ]
+          },
+          {
+            "question": "Grubun sinema planı var ama senin final haftan. Ne yaparsın?",
+            "image": "/images/friend-5.webp",
+            "options": [
+              "Gitmem, sınav önemli.",
+              "Gitmesem de bir bahanem olur.",
+              "Önce sınav, sonra sinema!",
+              "Gitmesem de aklım onlarda kalır."
+            ]
+          },
+          {
+            "question": "Grubun lideri kim olur genelde?",
+            "image": "/images/friend-6.webp",
+            "options": [
+              "Genelde benim.",
+              "Sıra sıra değişir.",
+              "Kimse lider değil, özgür takılırız.",
+              "Liderlik bana göre değil."
+            ]
+          },
+          {
+            "question": "Sosyal medya gruplarında en çok kim aktiftir?",
+            "image": "/images/friend-7.webp",
+            "options": [
+              "Ben, anında dönerim.",
+              "Bazen yazıyorum.",
+              "Genelde sessiz kalırım.",
+              "Grubu bile sessize almışımdır."
+            ]
+          }
+        ],
+        "results": [
+          {
+            "title": "Lider",
+            "description": "Planlama yapar, yönlendirir.",
+            "image": "/images/leader.webp"
+          },
+          {
+            "title": "Gölge Oyuncu",
+            "description": "Sessiz, gözlemci ama etkilidir.",
+            "image": "/images/shadow-player.webp"
+          },
+          {
+            "title": "Enerjik Destekçi",
+            "description": "Ortamı ısıtan, moral veren kişi.",
+            "image": "/images/energetic.webp"
+          },
+          {
+            "title": "Özgür Ruh",
+            "description": "Takım kurallarından hoşlanmayan bireyci.",
+            "image": "/images/free-spirit.webp"
+          },
+          {
+            "title": "Dengeleyici",
+            "description": "Ortamı yumuşatan, arabulucu.",
+            "image": "/images/balancer.webp"
+          }
+        ]
+      },
+      {
+        "id": "dorm-life-style",
+        "title": "Yurt Hayatında Hangi Türlü Oynarsın?",
+        "description": "Yurt yaşamında sen hangi tipi yansıtıyorsun?",
+        "image": "/images/dorm-life.webp",
+        "questions": [
+          {
+            "question": "Oda arkadaşın gece geç geldiğinde ne yaparsın?",
+            "image": "/images/dorm-0.webp",
+            "options": [
+              "Sabırlı ve anlayışlıyım",
+              "Sorun yaparım",
+              "Yok sayarım",
+              "Çözüm odaklıyım"
+            ]
+          },
+          {
+            "question": "Yemekhanede sıra varsa?",
+            "image": "/images/dorm-1.webp",
+            "options": [
+              "Beklerim, sıraya uyarım.",
+              "Sinirlenirim ama belli etmem.",
+              "Ertesi güne bırakırım.",
+              "Oraya gitmem, başka çözüm bulurum."
+            ]
+          },
+          {
+            "question": "Ortak alanda başkasının eşyasını görsen?",
+            "image": "/images/dorm-2.webp",
+            "options": [
+              "Kibarca uyarırım.",
+              "Alıp bir kenara koyarım.",
+              "Hiç dokunmam.",
+              "Duruma göre davranırım."
+            ]
+          },
+          {
+            "question": "Temizlik günü kim yapar?",
+            "image": "/images/dorm-3.webp",
+            "options": [
+              "Liste yapar adil şekilde dağıtırım.",
+              "Kendi odamı yaparım, gerisine karışmam.",
+              "Ne zaman denk gelirse yaparım.",
+              "Hiç yapmam, başkaları ilgilensin."
+            ]
+          },
+          {
+            "question": "Elektrik kesilirse ne yaparsın?",
+            "image": "/images/dorm-4.webp",
+            "options": [
+              "İdare ederim, kitap okurum.",
+              "Şarjım yoksa sinir olurum.",
+              "Uyurum.",
+              "İnternet gidince kriz geçiririm."
+            ]
+          },
+          {
+            "question": "Duş sırası beklemek zorunda kaldığında?",
+            "image": "/images/dorm-5.webp",
+            "options": [
+              "Sıraya uyarım.",
+              "Tartışırım.",
+              "Sabah erken kalkar, kaçırmam.",
+              "Duşu atlarım, çözüm bulurum."
+            ]
+          },
+          {
+            "question": "Odayı paylaşırken seni en çok ne zorlar?",
+            "image": "/images/dorm-6.webp",
+            "options": [
+              "Gürültü",
+              "Düzensizlik",
+              "Özel alan eksikliği",
+              "Hiçbir şey zorlamaz"
+            ]
+          },
+          {
+            "question": "Yurtta en çok özlediğin şey?",
+            "image": "/images/dorm-7.webp",
+            "options": [
+              "Evdeki rahatlık",
+              "Aile yemekleri",
+              "Sessizlik",
+              "Özgürlük"
+            ]
+          }
+        ],
+        "results": [
+          {
+            "title": "Kurallı Ev Arkadaşı",
+            "description": "Temizlik, düzen önemli.",
+            "image": "/images/rule-follower.webp"
+          },
+          {
+            "title": "Sakin ve Uyumlu",
+            "description": "Sabırlı ve çözüm odaklı.",
+            "image": "/images/calm.webp"
+          },
+          {
+            "title": "İsyankar",
+            "description": "Kurallara karşı, bireysel hareket eder.",
+            "image": "/images/rebel.webp"
+          },
+          {
+            "title": "Sosyalleşen",
+            "description": "Ortak alanları seven.",
+            "image": "/images/social.webp"
+          },
+          {
+            "title": "Ev Hasreti Çeken",
+            "description": "Konforuna düşkün.",
+            "image": "/images/homesick.webp"
+          }
+        ]
+      }
+
+  ]
+  
